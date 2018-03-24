@@ -23,8 +23,8 @@ NPM_DIR=$ROOT_DIR/node_modules/
 
 DDB_TABLE_ARN=""
 IDENTITY_POOL_ID=""
-USER_POOL_ID=""
-USER_POOL_CLIENT_ID=""
+USER_POOL_ID="us-east-2_fPWRTLNT2"
+USER_POOL_CLIENT_ID="6o43u877ekpc4h5rs45k2ojrv2"
 
 createCognitoResources() {
     # Create a Cognito Identity and Set roles
