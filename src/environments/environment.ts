@@ -5,7 +5,7 @@ export const environment = {
 
     identityPoolId: '',
     userPoolId: 'us-east-2_fPWRTLNT2',
-    clientId: 'casamaint1',
+    clientId: '6o43u877ekpc4h5rs45k2ojrv2',
 
     rekognitionBucket: 'rekognition-pics',
     albumName: "usercontent",
