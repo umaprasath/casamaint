@@ -4,8 +4,8 @@ export const environment = {
     region: 'us-east-2',
 
     identityPoolId: '',
-    userPoolId: '',
-    clientId: '',
+    userPoolId: 'us-east-2_fPWRTLNT2',
+    clientId: '6o43u877ekpc4h5rs45k2ojrv2',
 
     rekognitionBucket: 'rekognition-pics',
     albumName: "usercontent",
@@ -19,4 +19,3 @@ export const environment = {
     dynamodb_endpoint: '',
     s3_endpoint: ''
 };
-
