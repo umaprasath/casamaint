@@ -31,11 +31,11 @@ _This uses the pre-configured AWS resources hosted by AWS_
 
 ```
 # Clone it from github
-git clone --depth 1 git@github.com:awslabs/aws-cognito-angular2-quickstart.git
+git clone --depth 1 https://github.com/umaprasath/casamaint
 ```
 ```
 # Install the NPM packages
-cd aws-cognito-angular2-quickstart
+cd casamaint
 npm install
 ```
 ```
